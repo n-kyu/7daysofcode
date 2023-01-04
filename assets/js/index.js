@@ -4,5 +4,3 @@ const responsiveMenuIcon = document.querySelector('.responsive__menu img');
 responsiveMenuIcon.addEventListener('click', function() {
     responsiveMenu.classList.toggle('active')
 });
-
-console.log(responsiveMenu)
