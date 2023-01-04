@@ -1,0 +1,35 @@
+.depositions {
+    margin-top: 96px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;     
+  }
+  .depositions__card {
+    width: 70%;
+    padding: 64px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+  }
+  .depositions__about {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--red);
+  }
+  .depositions__text {
+    font-size: 36px;
+    color: var(--text-color2);
+    margin: 16px 0 32px 0;
+  }
+  .depositions img {
+    width: auto;
+  }
+  .depositions__name {
+    color: var(--text-color2);
+    margin: 16px 0 4px 0;
+  }
+  .depositions__job {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--text-color);
+  }

@@ -1,0 +1,28 @@
+  .container__card{ 
+    display: flex;   
+    flex-direction: column;   
+    width: 50%;
+    margin: auto;
+  }
+  .container__title{
+    color: var(--text-color2);
+    font-size: 20px; 
+    margin:64px 0 32px 0;              
+  }
+  .card__box{
+    border: 2px solid var(--border-box);
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+    margin-bottom: 24px;    
+  }
+  .card__title{
+    color: var(--text-color2);
+    font-size: 18px; 
+    margin-bottom: 32px; 
+  }
+  .card__info, .card__salary{ 
+    color: var(--text-color);   
+    font-size: 14px;  
+    margin-right: 24px;
+  }
+  

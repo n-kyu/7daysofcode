@@ -1,0 +1,19 @@
+  header {
+    text-align: center;
+    margin-top: 96px;    
+  }
+  .subheading {
+    color: var(--red);
+    font-weight: 600;
+    
+  }
+  .heading {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--text-color2);
+    padding: 0.5em;
+  }
+  .support-text {
+    color: var(--text-color);
+    font-size: 20px
+  }

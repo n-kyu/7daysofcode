@@ -1,0 +1,23 @@
+  .vacancies__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .vacancies__open {
+    padding: 4px 12px;
+    border: 1px transparent var(--red);
+    border-radius: 16px;
+    background: var(--border-transparent);
+    color: var(--red);
+  }
+  .vacancies__title {
+    font-size: 44px;
+    font-weight: 600;
+    color: var(--text-color2);
+    padding: .5em 0 .5em 0;
+  }
+  .vacancies__text {
+    font-size: 20px;
+    color: var(--text-color);
+    margin-bottom: 64px;
+  }

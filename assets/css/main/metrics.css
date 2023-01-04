@@ -1,0 +1,26 @@
+  .metrics {
+    margin: 107px 0 300px 0;
+    display: flex;      
+    justify-content: center;    
+  }
+  .metrics_container {     
+    padding: 2em ;    
+
+  }
+  .metrics__titles {    
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--red);
+    
+    
+  }
+  .metrics__subtitle {
+    font-size: 18px;
+    color: var(--text-color2);
+    margin: 1em 0 1em 0;
+    
+  }
+  .metrics__text {
+    font-weight: 400;
+    color: var(--text-color);    
+  }
