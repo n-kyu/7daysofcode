@@ -1,12 +1,10 @@
   button {    
     padding: .8rem 1rem;      
-    cursor: pointer;    
+    cursor: pointer;
     border-radius: .5rem;    
     color: var(--text-color);    
   }   
-  button#SignUP,#email {
+  button#signUP,#email {
     background-color: var(--red);
     color: #FFF;
   }
-
-

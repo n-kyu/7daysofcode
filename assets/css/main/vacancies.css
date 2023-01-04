@@ -21,3 +21,27 @@
     color: var(--text-color);
     margin-bottom: 64px;
   }
+  .team__banner {
+    width: 90%
+  }
+
+  /* responsive */
+
+  @media screen and (max-width: 850px) {
+
+    .vacancies__title {
+      font-size: 2rem;
+    }
+
+    .vacancies__text {
+      font-size: 1rem;
+      margin-bottom: 32px;
+    }
+    .vacancies__container {
+      padding: 1rem;
+    }
+
+    .team__banner {
+      width: 100%
+    }
+  }

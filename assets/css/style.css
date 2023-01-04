@@ -13,8 +13,11 @@
     --logo-color:#3A404E ;
     --text-color: #667085;
     --text-color2:#101828;
+    --branco: #fff;
+    --preto: #000;
     --red:#8E2424;
-    --border-transparent:#8E24240D;
+    --red-secondary: #ff0000;
+    --border-transparent: #8E24240D;
     --background-footer: #F9FAFB;
     --text-color-footer:#98A2B3;   
     --border-box: #EAECF0;

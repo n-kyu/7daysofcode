@@ -26,3 +26,21 @@
     margin-right: 24px;
   }
   
+    /* responsive */
+
+    @media screen and (max-width: 850px) { 
+      .container__card {
+        width: 70%;
+      }
+    }
+
+    @media screen and (max-width: 681px) { 
+      .container__title {
+        margin:32px 0 32px 0;  
+      }
+      .card__salary { 
+        margin-top: 10px;
+        display: flex;
+
+      }
+    }
